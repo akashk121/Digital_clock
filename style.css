@@ -1,0 +1,16 @@
+.clock1{
+    background-color: black;
+    color: #ffff;
+    letter-spacing: .5rem;
+}
+
+.clock{
+    margin: 14% 23%;
+    font-size: 200px;
+    display:flex;
+    
+}
+#ampm{
+    font-size: 50px;
+    padding-top: 174px;
+}
